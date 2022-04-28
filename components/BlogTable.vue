@@ -35,8 +35,7 @@ export default {
             text: 'Description',
             value: 'description',
             sortable: false
-          },
-          { text: 'Actions', value: 'actions', sortable: false },
+          }
         ],
         footerProps: {
           'items-per-page-options': [3, 5, 10],
